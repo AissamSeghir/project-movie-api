@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-movie-api/static/css/main.2bd78208.css",
+    "main.js": "/project-movie-api/static/js/main.2b2c13e6.js",
+    "static/js/453.9efe9326.chunk.js": "/project-movie-api/static/js/453.9efe9326.chunk.js",
+    "index.html": "/project-movie-api/index.html",
+    "main.2bd78208.css.map": "/project-movie-api/static/css/main.2bd78208.css.map",
+    "main.2b2c13e6.js.map": "/project-movie-api/static/js/main.2b2c13e6.js.map",
+    "453.9efe9326.chunk.js.map": "/project-movie-api/static/js/453.9efe9326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd78208.css",
+    "static/js/main.2b2c13e6.js"
+  ]
+}
